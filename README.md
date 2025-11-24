@@ -67,4 +67,3 @@ This project performs Exploratory Data Analysis (EDA) and applies K-Means Cluste
 
 * Clear separation of customers based on spending and other numerical behaviors
 
-* Useful for targeted marketing and personalization
