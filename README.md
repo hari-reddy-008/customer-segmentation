@@ -5,11 +5,11 @@ This project performs Exploratory Data Analysis (EDA) and applies K-Means Cluste
 
 **Data Loading & Cleaning**
 
-*Handled missing values
+* Handled missing values
 
-*Removed outliers using statistical techniques
+* Removed outliers using statistical techniques
 
-*Normalized numerical features for clustering
+* Normalized numerical features for clustering
 
 
 ## **Exploratory Data Analysis (EDA)**
